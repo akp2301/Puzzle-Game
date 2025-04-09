@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore macOS system files
+.DS_Store
+
+# Ignore virtual environments
+asi_VENV/
+
 # C extensions
 *.so
 
